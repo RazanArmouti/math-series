@@ -1,3 +1,3 @@
 # Math Series
 
-[PR]()
+[PR](https://github.com/RazanArmouti/math-series/pull/1)
